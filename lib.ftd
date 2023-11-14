@@ -1,6 +1,6 @@
 -- import: sarvom.github.io/holy-angel-typography 
 -- import: shaheen-senpai.github.io/fastn-cs-tail
-
+-- import: fastnui.trizwit.com/UI-Components/Footer/footer-3
 
 -- component page:
 optional ftd.image-src logo:
@@ -32,11 +32,14 @@ children: $page.c
 
 -- footer:
 icon-1: $assets.files.assets.linkedIn.png
-url-1: https://www.linkedin.com/company/trizwit/
-icon-2: $assets.files.assets.twit.svg
-url-2: https://twitter.com/trizwit
-icon-3: $assets.files.assets.github.svg
-url-3: https://github.com/Trizwit
+url-1: https://www.linkedin.com/in/athul-saji/
+icon-2: $assets.files.assets.whatsapp.svg
+url-2: https://wa.me/+917558860887
+icon-3: $assets.files.assets.insta.png
+url-3: https://www.instagram.com/the_visionary_monk/
+
+
+
 
 -- end: ftd.column
 
@@ -144,7 +147,7 @@ boolean $open: false
 
 -- ftd.column:
 width: fill-container
-background.solid: #000000aa
+background.solid: #000000
 sticky: true
 
 -- ftd.row:
@@ -256,7 +259,7 @@ optional string cta-text-6-url:
 
 -- ftd.row:
 width: fill-container
-background.solid: #000000aa
+background.solid: #000000
 sticky: true
 
 -- ftd.row:

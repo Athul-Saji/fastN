@@ -1,6 +1,8 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
--- import: <user_name>.github.io/<repo_name>/lib
+-- import: athul-saji.github.io/fastn/lib
+-- import: fastnui.trizwit.com/UI-Components/Hero/hero-6
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-3
 
 -- lib.page:
 
@@ -14,15 +16,19 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
 
--- hero-1.hero-1: I'm John Doe
+
+
+
+-- hero-1.hero-1: I'm Athul Saji
 cta-button-1: Resume
-link-1: https://www.resume.com/
+link-1: Main_Resume_LAT.pdf
 cta-button-2: Schedule Meeting
 link-2: https://calendly.com/
-cover: $assets.files.assets.ape-1.jpg
+cover: 1000098852-01.jpeg
 
-Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. 
-Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray.
+Wassup peeps!! I'm Athul, an enthusiastic coder studying B.Tech at SJCET.
+
+
 
 
 -- end: lib.page
